@@ -1,0 +1,19 @@
+{
+  "Params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingking",
+    "prod_uri": "mysql://root:@localhost/codingking",
+    "fb_url": "http://facebook.com/codingking",
+    "tw_url": "http://twitter.com/codingking",
+    "gh_url": "http://github.com/codingking",
+    "gmail-user": "yasirhussyn786@gmail.com",
+    "gmail-pass": "yasirgm$@#786",
+    "no_of_post": "2",
+    "blog_name": "The Coding King",
+    "login_img": "signin-logo.jpg",
+    "admin-user": "Yasir786",
+    "admin-pass": "pakistan786",
+    "upload_location": "E:\\pycharm project\\FlaskPractice\\static"
+  }
+}
